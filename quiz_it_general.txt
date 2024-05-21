@@ -8,7 +8,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(2) What can be stored in NoSQL database?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -18,7 +18,7 @@
         ],
         answered: false
     },    
-	{
+    {
         questionText: '(3) What is a HTML?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -28,7 +28,7 @@
         ],
         answered: false
     },
-	{
+   	{
         questionText: '(4) What is considered as script language?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -38,7 +38,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(5) Wchich is not a valid Linux shell?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -48,7 +48,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(6) What is a source control?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -58,7 +58,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(7) What is not a computer programing language?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -68,7 +68,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(8) What LLM stands for?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -78,7 +78,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(9) What from below can not run containers?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -88,7 +88,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(10) What Docker Compose can be used for?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -98,7 +98,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(11) What from below can not run containers?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -108,7 +108,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(12) What from below can not run containers?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -118,7 +118,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(13) What from below is not an computer operating system?',
         options: [
             { id: 0, text: "A. Solaris", isCorrect: false },
@@ -128,7 +128,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(14) What is load balancer?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -138,7 +138,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(15) What can be used to extend existing software?',
         options: [
             { id: 0, text: "A. Plugin", isCorrect: true },
@@ -148,7 +148,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(16) Which is not a HTTP server?',
         options: [
             { id: 0, text: "A. Apache", isCorrect: false },
@@ -158,7 +158,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(17) What is web assembly?',
         options: [
             { id: 0, text: "A. Virtual DOM", isCorrect: true },
@@ -168,7 +168,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(18) Creating programs using is "closest to the hardware"?',
         options: [
             { id: 0, text: "A. C++", isCorrect: false },
@@ -178,7 +178,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(19) What language cannot be run in modern browser natively?',
         options: [
             { id: 0, text: "A. Typescript", isCorrect: true },
@@ -188,7 +188,7 @@
         ],
         answered: false
     },
-	{
+    {
         questionText: '(20) Which of the following cannot be used to comunicate between programs?',
         options: [
             { id: 0, text: "A. REST", isCorrect: false },
