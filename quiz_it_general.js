@@ -4,7 +4,7 @@
             { id: 0, text: "A. To control revisions of source code files", isCorrect: true },
             { id: 1, text: "B. To control the versions of applications installed", isCorrect: false },
             { id: 2, text: "C. To check if given program version can be executed", isCorrect: false },
-            { id: 3, text: "D. To verify if all application are up to date", isCorrect: false },
+            { id: 3, text: "D. To verify if all application are up-to-date", isCorrect: false },
         ],
         answered: false
     },
@@ -19,7 +19,7 @@
         answered: false
     },
     {
-        questionText: '(3) What is a HTML?',
+        questionText: '(3) What is an HTML?',
         options: [
             { id: 0, text: "A. The computer programming language", isCorrect: false },
             { id: 1, text: "B. The Javascript library to display dynamic content", isCorrect: false },
@@ -116,10 +116,10 @@
         answered: false
     },
     {
-        questionText: '(13) Which of the following list is not an computer operating system?',
+        questionText: '(13) Which of the following list is not a computer operating system?',
         options: [
             { id: 0, text: "A. Solaris", isCorrect: false },
-            { id: 1, text: "B. MAC OS", isCorrect: false },
+            { id: 1, text: "B. macOS", isCorrect: false },
             { id: 2, text: "C. VMWare", isCorrect: true },
             { id: 3, text: "D. MS DOS", isCorrect: false },
         ],
@@ -146,7 +146,7 @@
         answered: false
     },
     {
-        questionText: '(16) Which is not a HTTP server?',
+        questionText: '(16) Which is not an HTTP server?',
         options: [
             { id: 0, text: "A. Apache", isCorrect: false },
             { id: 1, text: "B. Derby", isCorrect: true },
@@ -330,7 +330,7 @@
         answered: false
     },
     {
-        questionText: '(35) Which of the following list is not a HTTP request method?',
+        questionText: '(35) Which of the following list is not an HTTP request method?',
         options: [
             { id: 0, text: "A. GET", isCorrect: false },
             { id: 1, text: "B. FETCH", isCorrect: true },
@@ -406,8 +406,8 @@
     {
         questionText: '(43) What is a GraphQL?',
         options: [
-            { id: 0, text: "A. An JavaScript visualization library", isCorrect: false },
-            { id: 1, text: "B. An utility to display connections between servers", isCorrect: false },
+            { id: 0, text: "A. A JavaScript visualization library", isCorrect: false },
+            { id: 1, text: "B. A utility to display connections between servers", isCorrect: false },
             { id: 2, text: "C. An open-source data query and manipulation language for APIs", isCorrect: true }
         ],
         answered: false
