@@ -158,7 +158,7 @@
     {
         questionText: '(17) What is WebAssembly?',
         options: [
-            { id: 0, text: "A. Programming language that can be writen in web browser", isCorrect: false },
+            { id: 0, text: "A. Programming language that can be used in a web browser", isCorrect: false },
             { id: 1, text: "B. Portable binary-code format to enable high-performance applications on web pages", isCorrect: true },
             { id: 2, text: "C. Module bundler for JavaScript", isCorrect: false },
         ],
@@ -479,4 +479,95 @@
         ],
         answered: false
     },
+    {
+        questionText: '(51) What is a microservice architecture?',
+        options: [
+            { id: 0, text: "A. It is an architecture based on Web Services", isCorrect: false },
+            { id: 1, text: "B. It is an architectural pattern that arranges an application as a collection of loosely coupled, fine-grained services", isCorrect: true },
+            { id: 2, text: "C. It is an architectural pattern of which the main part is one monolithic application", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(52) What is a Domain-driven design (DDD)?',
+        options: [
+            { id: 0, text: "A. It is an application written only by domain experts", isCorrect: false },
+            { id: 1, text: "B. It is an architectural pattern that arranges an application as a collection of loosely coupled, fine-grained services", isCorrect: false },
+            { id: 2, text: "C. It is software design approach, focusing on modeling software to match a domain according to input from that domain's experts", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(53) What is a Test Driven Development (TDD)?',
+        options: [
+            { id: 0, text: "A. Application made by a team with many software testers", isCorrect: false },
+            { id: 1, text: "B. It is a way of writing code that involves writing an automated unit-level test case that fails, then writing just enough code to make the test pass", isCorrect: true },
+            { id: 2, text: "C. It is software design approach, focusing on modeling software to match a domain according to input from that domain's experts", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(54) What is an user acceptance testing (UAT)?',
+        options: [
+            { id: 0, text: "A. It is testing based on unit tests", isCorrect: false },
+            { id: 1, text: "B. It is an end-to-end (E2E) testing", isCorrect: false },
+            { id: 2, text: "C. It is a process of verifying that a solution works for the user", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(55) What is an Object-oriented programming (OOP)?',
+        options: [
+            { id: 0, text: "A. It is a database optimization technique", isCorrect: false },
+            { id: 1, text: "B. It is an acceptance criteria list. Your application is complete when all objects from the list are done.", isCorrect: false },
+            { id: 2, text: "C. It is a programming paradigm based on the concept of objects, which can contain data and code", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(56) What is a purpose of the Turing Test?',
+        options: [
+            { id: 0, text: "A. To verify if a programming language has all the required functionality", isCorrect: false },
+            { id: 1, text: "B. To test a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human", isCorrect: true },
+            { id: 2, text: "C. To test the responsiveness of a service", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(57) What is a interface in programming language?',
+        options: [
+            { id: 0, text: "A. It is a piece of code responsible for input/output (I/O)", isCorrect: false },
+            { id: 1, text: "B. It is a method that facilitates connection to the database", isCorrect: false },
+            { id: 2, text: "C. It is a data type that acts as an abstraction of a class", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(58) What das it mean if project follows Continuous delivery (CD) approach?',
+        options: [
+            { id: 0, text: "A. It is the possibility to download the latest version of software at any time by the end user", isCorrect: false },
+            { id: 1, text: "B. It is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time", isCorrect: true },
+            { id: 2, text: "C. It is the practice of frequently building and testing a software system during its development", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(59) What das it mean if project follows Continuous integration (CI) approach?',
+        options: [
+            { id: 0, text: "A. It is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time", isCorrect: false },
+            { id: 1, text: "B. It is the practise that the development team participates in integration events often", isCorrect: false },
+            { id: 2, text: "C. It is the practice of frequently building and testing a software system during its development", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(60) What is a unit testing?',
+        options: [
+            { id: 0, text: "A. Testing part done by software testers", isCorrect: false },
+            { id: 1, text: "B. Component or module testing, is a form of software testing by which isolated source code is tested to validate expected behavior", isCorrect: true },
+            { id: 2, text: "C. Testing done by the end user", isCorrect: false },
+        ],
+        answered: false
+    },
+
 
