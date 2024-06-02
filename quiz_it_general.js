@@ -659,6 +659,99 @@
         ],
         answered: false
     },
-
+    {
+        questionText: '(71) Which computer language was designed to extract data from a database??',
+        options: [
+            { id: 0, text: "A. BASIC", isCorrect: false },
+            { id: 1, text: "B. COBOL", isCorrect: false },
+            { id: 2, text: "C. SQL", isCorrect: true },
+            { id: 3, text: "D. FORTRAN", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(72) WAN is an acronym for what in computer science?',
+        options: [
+            { id: 0, text: "A. world area network", isCorrect: false },
+            { id: 1, text: "B. wide area network", isCorrect: true },
+            { id: 2, text: "C. wide analysis network", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(73) What does the acronym FTP stand for?',
+        options: [
+            { id: 0, text: "A. free transistor protocol", isCorrect: false },
+            { id: 1, text: "B. fast total processing", isCorrect: false },
+            { id: 2, text: "C. file transfer protocol", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(74) What does the acronym VPN mean?',
+        options: [
+            { id: 0, text: "A. virtual private network", isCorrect: true },
+            { id: 1, text: "B. visual protocol networking", isCorrect: false },
+            { id: 2, text: "C. visual protocol network", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(75) Which of these is not an example of malware?',
+        options: [
+            { id: 0, text: "A. spyware", isCorrect: false },
+            { id: 1, text: "B. computer worm", isCorrect: false },
+            { id: 2, text: "C. plug-in", isCorrect: true },
+            { id: 3, text: "D. trojan", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(76) What does the acronym DNS stand for?',
+        options: [
+            { id: 0, text: "A. document name system", isCorrect: false },
+            { id: 1, text: "B. domain name system", isCorrect: true },
+            { id: 2, text: "C. domain number system", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(77) What technology helps make telephone calls over the Internet possible?',
+        options: [
+            { id: 0, text: "A. Ethernet", isCorrect: false },
+            { id: 1, text: "B. VoIP", isCorrect: true },
+            { id: 2, text: "C. Bluetooth", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(78) What part of a URL is unique and assigned by a registrar accredited by ICANN?',
+        options: [
+            { id: 0, text: "A. protocol type", isCorrect: false },
+            { id: 1, text: "B. hosting server", isCorrect: false },
+            { id: 2, text: "C. IP address", isCorrect: false },
+            { id: 3, text: "D. domain name", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(79) In the 1990s, this company created a computer programming language called Java:',
+        options: [
+            { id: 0, text: "A. IBM", isCorrect: false },
+            { id: 1, text: "B. Oracle Corporation", isCorrect: false },
+            { id: 2, text: "C. Sun Microsystems, Inc.", isCorrect: true },
+            { id: 3, text: "D. Microsoft Corporation", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(80) Which of these is not one of the early “protocols,” or ways to use the Internet??',
+        options: [
+            { id: 0, text: "A. Process to determine if an application is suitable for a given customer", isCorrect: false },
+            { id: 1, text: "B. It is another term for penetration testing", isCorrect: false },
+            { id: 2, text: "C. It is a form of dynamic program analysis that measures, for example, the space (memory) or time complexity of a program", isCorrect: true },
+        ],
+        answered: false
+    },
 
 
