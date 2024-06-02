@@ -525,7 +525,7 @@
         answered: false
     },
     {
-        questionText: '(56) What is a purpose of the Turing Test?',
+        questionText: '(56) What is the purpose of the Turing test?',
         options: [
             { id: 0, text: "A. To verify if a programming language has all the required functionality", isCorrect: false },
             { id: 1, text: "B. To test a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human", isCorrect: true },
@@ -569,5 +569,96 @@
         ],
         answered: false
     },
+    {
+        questionText: '(61) What is a Cross-site scripting (XSS)?',
+        options: [
+            { id: 0, text: "A. It is an attack in which malicious SQL statements are inserted into an entry field for execution", isCorrect: false },
+            { id: 1, text: "B. It is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties", isCorrect: false },
+            { id: 2, text: "C. It is a vulnerability that enables attackers to inject client-side scripts into web pages viewed by other users", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(62) What is a Man-in-the-middle attack?',
+        options: [
+            { id: 0, text: "A. An attacking party makes a machine or network resource unavailable by disrupting them, mainly by flooding", isCorrect: false },
+            { id: 1, text: "B. It is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties", isCorrect: true },
+            { id: 2, text: "C. Penetration testing done by the end user", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(63) What is a Denial-of-service attack attack?',
+        options: [
+            { id: 0, text: "A. An attacking party makes a machine or network resource unavailable by disrupting them, mainly by flooding", isCorrect: true },
+            { id: 1, text: "B. It is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties", isCorrect: false },
+            { id: 2, text: "C. It is an attack in which malicious SQL statements are inserted into an entry field for execution", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(64) What is a SQL Injection?',
+        options: [
+            { id: 0, text: "A. It is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties", isCorrect: false },
+            { id: 1, text: "B. An attacking party makes a machine or network resource unavailable by disrupting them, mainly by flooding", isCorrect: false },
+            { id: 2, text: "C. It is an attack in which malicious SQL statements are inserted into an entry field for execution", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(65) What is a code injection?',
+        options: [
+            { id: 0, text: "A. An attacking party makes a machine or network resource unavailable by disrupting them, mainly by flooding", isCorrect: false },
+            { id: 1, text: "B. It is the exploitation of a computer bug that is caused by processing invalid data", isCorrect: true },
+            { id: 2, text: "C. A direct feature request made by the product manager", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(66) What is a Cross-site request forgery (CSRF) ?',
+        options: [
+            { id: 0, text: "A. It is an attack in which malicious SQL statements are inserted into an entry field for execution", isCorrect: false },
+            { id: 1, text: "B. It is a vulnerability that enables attackers to inject client-side scripts into web pages viewed by other users", isCorrect: false },
+            { id: 2, text: "C. It is a type of malicious exploit of a web application where unauthorized commands are submitted from a user that the web application trusts", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(67) Should user-entered data into the application be verified?',
+        options: [
+            { id: 0, text: "A. No. Only authorized users have access to the application, so no further validation is required", isCorrect: false },
+            { id: 1, text: "B. Yes. You should never trust a user's entry", isCorrect: true },
+            { id: 2, text: "C. No. The data is validated by a network protocol", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(68) What is the purpose of the code review practice?',
+        options: [
+            { id: 0, text: "A. To discuss future application enhancements", isCorrect: false },
+            { id: 1, text: "B. It is used by the product manager to calculate team velocity", isCorrect: false },
+            { id: 2, text: "C. It is a software quality assurance activity in which one or more people check the source code of the program", isCorrect: true },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(69) What does the "acceptance criteria" term mean?',
+        options: [
+            { id: 0, text: "A. Detailed conditions that must be satisfied for the user story, or increment of work to be accepted", isCorrect: true },
+            { id: 1, text: "B. Conditions that must be satisfied to declare that the program is user-friendly", isCorrect: false },
+            { id: 2, text: "C. Both A and B", isCorrect: false },
+        ],
+        answered: false
+    },
+    {
+        questionText: '(70) What does the "program profiling" term mean?',
+        options: [
+            { id: 0, text: "A. Process to determine if an application is suitable for a given customer", isCorrect: false },
+            { id: 1, text: "B. It is another term for penetration testing", isCorrect: false },
+            { id: 2, text: "C. It is a form of dynamic program analysis that measures, for example, the space (memory) or time complexity of a program", isCorrect: true },
+        ],
+        answered: false
+    },
+
 
 
