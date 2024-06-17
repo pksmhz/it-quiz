@@ -745,11 +745,11 @@
         answered: false
     },
     {
-        questionText: '(80) Which of these is not one of the early “protocols,” or ways to use the Internet??',
+        questionText: '(80) Which of these is not one of the early “protocols,” or ways to use the Internet?',
         options: [
-            { id: 0, text: "A. Process to determine if an application is suitable for a given customer", isCorrect: false },
-            { id: 1, text: "B. It is another term for penetration testing", isCorrect: false },
-            { id: 2, text: "C. It is a form of dynamic program analysis that measures, for example, the space (memory) or time complexity of a program", isCorrect: true },
+            { id: 0, text: "A. Telnet", isCorrect: false },
+            { id: 1, text: "B. FTP", isCorrect: false },
+            { id: 2, text: "C. Twitter", isCorrect: true },
         ],
         answered: false
     },
